@@ -1,0 +1,3 @@
+Will upload all Orange problems here
+
+Orange -> Question 1 -> Text.txt(Hint inside only) -> Other files -> add answer in that text file 
